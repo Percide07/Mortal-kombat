@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    display: grid;
+    grid-template-columns: 200px 200px ;
+    border: 2px solid black;
+}
+main div {
+    border: 2px solid black;
+}
